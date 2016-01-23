@@ -1,10 +1,10 @@
 /* XPM */
-static char * top_left_active_xpm[] = {
+static char * top_left_inactive_xpm[] = {
 "10 28 4 1",
 " 	c None",
-".	c #123456	s	active_shadow_1",
-"+	c #ABCDEF	s	active_color_1",
-"@	c #FFFFFF	s	active_mid_1",
+".	c #123456	s	inactive_shadow_1",
+"+	c #ABCDEF	s	inactive_color_1",
+"@	c #FFFFFF	s	inactive_mid_1",
 "..........",
 ".+++++++++",
 ".+++++++++",

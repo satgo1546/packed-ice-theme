@@ -1,9 +1,9 @@
 /* XPM */
-static char * menu_active_xpm[] = {
+static char * menu_prelight_xpm[] = {
 "24 28 4 1",
 " 	c None",
 ".	c #123456	s	active_shadow_1",
-"+	c #ABCDEF	s	active_color_1",
+"+	c #ABCDEF	s	active_hilight_1",
 "@	c #FFFFFF	s	active_mid_1",
 "........................",
 "++++++++++++++++++++++++",
